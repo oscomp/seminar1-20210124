@@ -1,5 +1,4 @@
 # seminar1-20210124
-seminar1-20210124
 
 本次报告的相关报告内容遵循 [CC BY-SA 署名-相同方式共享 4.0 协议](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
 
@@ -16,7 +15,7 @@ Linux内核之旅的报告宣传：[Linux内核守护者吴峰光开讲](https:/
 
 #### 报告人介绍
 
-[吴峰光：平行世界守护者，Linux老神仙](https://mp.weixin.qq.com/s/JpDdMfR31Om_eHBcCkjGoA)
+- [吴峰光：平行世界守护者，Linux老神仙](https://mp.weixin.qq.com/s/JpDdMfR31Om_eHBcCkjGoA)
 
 ### 报告幻灯片
 
